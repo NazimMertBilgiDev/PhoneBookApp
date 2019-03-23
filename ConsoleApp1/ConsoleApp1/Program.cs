@@ -11,6 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello all developers!");
             // write code here.
             // write code here.
+            string name = "NMB";
+            Console.WriteLine(name);
         }
     }
 }
