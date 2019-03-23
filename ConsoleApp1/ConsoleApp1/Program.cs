@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello .net core!");
             Console.WriteLine("Hello all developers!");
-
+            // write code here.
         }
     }
 }
